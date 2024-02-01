@@ -9,3 +9,7 @@
 input {
   border: 1px solid black;
 }
+
+button {
+  @apply m-2 p-2 bg-blue-500 text-white text-center font-bold text-xl;
+}
